@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: "Scorecard"
+name: "Stuart Pineo"
+description: "Grocery scorecard."
+keywords: django, python
