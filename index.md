@@ -1,17 +1,18 @@
 
 This project implements a Web application that displays grocery store scores that are generated from multiple ranking parameters. The scorecard (at least at this point) will focus on local grocery stores and earned points will be based on affirmative conditions (i.e., verifiable products or services) rather than the absence of such conditions.
 
-## User Interaction
+## Public Facing Interface
 
-The home page displays the grocery stores in order of ranking (i.e., highest to lowest) with grocery store names linking to a detail page with the ranking factors.
+* A home page that displays the grocery stores in order of aggregate ranking (i.e., highest to lowest)
+* Detailed pages with rankings across categories (see below) and comments that can be accessed by clicking on the grocery store names.
+* A search field (TBD)
+* A link to the Admin Interface
 
-## Ranking Update
+## Private Admin Interface
 
-An update form, accessible by approved users, will be used to submit a new ranking or update an existing one.
-
-## Admin Interface
-
-The Admin interface will manage user accounts.
+* A login form for approved users.
+* An update form that will be used to submit a new ranking or update an existing one.
+* Management of user accounts.
 
 ## Example Ranking Factors*
 
@@ -25,7 +26,7 @@ The Admin interface will manage user accounts.
 * Integrate as shareable and/or editable document
 
 
-# Technical Stuff
+# Implementation (In Progress)
 
 ## Web Framework
 
