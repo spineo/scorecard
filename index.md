@@ -1,10 +1,10 @@
 
-This project implements a Web application that displays grocery store scores that are generated from multiple ranking parameters. The scorecard (at least at this point) will focus on local grocery stores and earned points will be based on affirmative conditions (i.e., verifiable products or services) rather than the absence of such conditions.
+This project implements a Web application that displays grocery store scores that are generated from multiple ranking parameters. For now, the scorecard will focus on local grocery stores and earned points will be based on affirmative conditions (i.e., verifiable offerings) rather than the absence of such conditions.
 
 ### Public Facing Interface
 
-* A home page that displays the grocery stores in order of aggregate ranking (i.e., highest to lowest)
-* Detailed pages with rankings across categories (see below), optional comments, and date last updated that can be accessed by clicking on the grocery store names.
+* A home page that lists the grocery stores in order of aggregate ranking (i.e., highest to lowest)
+* Detail pages with the store rankings across categories (see below), optional comments, and date last updated that can be accessed by clicking on the grocery store name.
 * A search field (TBD)
 * A feedback link (form or email)
 * A link to the Admin Interface
@@ -14,16 +14,16 @@ This project implements a Web application that displays grocery store scores tha
 * A login form for approved users.
 * Add/Update forms that will be used to submit a new ranking or update an existing one.
 * Ability to remove a store from the list.
-* Management of user accounts.
+* Management of user accounts/permissions.
 
 ### Example Ranking Factors*
 
 | Category | Sub-Categories |
 | -------- | ------- |
-| Bulk Shopping  | Vegetables/Fruits, Breads, Grains, Beans, Pasta, Nuts, Flour/Sugar, Spices, Coffee/Tea, Oils/Vinegar, Nut Butters, Cleaning Liquids/Powders, Beauty Products|
-| Quality Offerings | Organic, Sustainable, Fair Trade, Non-GMO, Cage Free, Pasture Raised, Vegan Substitutes, Freshness of Produce/Perishables, Plastic-Free Options, Eco-Friendly Beauty/Cleaning Products |
-| Shopping Experience | Friendliness, Checkout Lines/Ease of Checkout, Helpfulness, Knowledgeable, Wide Aisles, Well Stocked, Variety, Price, Store Cleanliness |
-| Store Extras | Mission, Fresh Bakery, Compost, Recycling Options, Water Refill, Plants/Flowers, Response to Feedback/Emails, Encourage BYOB (signs/credits), Offer Bags/Containers, Paperless Receipts |
+| Bulk Foods/Variety  | Fresh Vegetables/Fruits, Dried Fruits, Cereals, Breads/Pastry, Grains, Beans, Pasta, Nuts, Flour/Sugar, Spices, Coffee/Tea/Herbs, Oils/Vinegar, Nut Butters, Cleaning Liquids/Powders, Beauty Products, Candy/Sweets|
+| Quality Offerings | Organic, Sustainable, Fair Trade, Non-GMO, Cage Free, Pasture Raised, Vegan Substitutes, Freshness of Produce/Perishables, Plastic-Free Options, Eco-Friendly Beauty/Cleaning Products, Bulk Foods Packaging Options |
+| Shopping Experience | Friendliness, Ease/Speed of Checkout, Helpfulness, Knowledgeable, Store Navigation/Space, Well Stocked, Variety, Price, Store Cleanliness |
+| Store Extras | Mission, Fresh Bakery, Compost, Recycling Options, Water Refill, Plants/Flowers, Response to Feedback/Emails, Encourage BYOB (signs/credits), Offer Bags/Containers, Paperless Receipts, Eat-in Services/Prepared Food |
 
 * To be integrate as shareable and/or editable document
 
