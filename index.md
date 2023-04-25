@@ -32,7 +32,7 @@ This project implements a Web application that displays grocery store scores tha
 
 ## Web Framework
 
-As mentioned, the Web Framework used will be [Django](https://www.djangoproject.com) which is implemented with Python. The application will be running on a Mac OS (Python v3.7.6 and Django v3.0)
+As mentioned, the Web Framework used will be [Django](https://www.djangoproject.com) which is implemented with Python. The application will be running on a Mac OS (Python v3.7.6 and Django v3.0) during initial testing and then moved to the Amazon AWS platform.
 
 Since the setup, at least initially, is not geared to a heavy-weight and/or production environment I will skip the installation of Apache and mod_wsgi as suggested in the [installation](https://docs.djangoproject.com/en/3.0/topics/install/) instructions.
 
