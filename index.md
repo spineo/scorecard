@@ -114,7 +114,6 @@ Watching for file changes with StatReloader
 Performing system checks...
 
 System check identified no issues (0 silenced).
-April 25, 2023 - 20:36:14
 Django version 3.0.7, using settings 'sustainable.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CONTROL-C.
