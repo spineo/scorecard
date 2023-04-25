@@ -4,14 +4,16 @@ This project implements a Web application that displays grocery store scores tha
 ## Public Facing Interface
 
 * A home page that displays the grocery stores in order of aggregate ranking (i.e., highest to lowest)
-* Detailed pages with rankings across categories (see below) and comments that can be accessed by clicking on the grocery store names.
+* Detailed pages with rankings across categories (see below), optional comments, and date last updated that can be accessed by clicking on the grocery store names.
 * A search field (TBD)
+* A feedback link (form or email)
 * A link to the Admin Interface
 
 ## Private Admin Interface
 
 * A login form for approved users.
-* An update form that will be used to submit a new ranking or update an existing one.
+* Add/Update forms that will be used to submit a new ranking or update an existing one.
+* Ability to remove a store from the list.
 * Management of user accounts.
 
 ## Example Ranking Factors*
@@ -23,7 +25,7 @@ This project implements a Web application that displays grocery store scores tha
 | Shopping Experience | Friendliness, Checkout Lines/Ease of Checkout, Helpfulness, Knowledgeable, Wide Aisles, Well Stocked, Variety, Price, Store Cleanliness |
 | Store Extras | Mission, Fresh Bakery, Compost, Recycling Options, Water Refill, Plants/Flowers, Response to Feedback/Emails, Encourage BYOB (signs/credits), Offer Bags/Containers, Paperless Receipts |
 
-* Integrate as shareable and/or editable document
+* To be integrate as shareable and/or editable document
 
 
 # Implementation (In Progress)
