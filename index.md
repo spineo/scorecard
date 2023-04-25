@@ -1,5 +1,5 @@
 
-This project implements a Web application that displays grocery store scores that are generated from multiple ranking parameters. For now, the scorecard will focus on local grocery stores and earned points will be based on affirmative conditions (i.e., verifiable offerings) rather than the absence of such conditions.
+Web application that displays grocery store scores that are generated from multiple ranking parameters. For now, the scorecard will focus on local grocery stores and earned points will be based on affirmative conditions (i.e., verifiable offerings) rather than the absence of such conditions.
 
 ### Public Facing Interface
 
