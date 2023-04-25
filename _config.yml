@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: "Grocery Store Scorecard"
+title: "Grocery Scorecard"
 name: "Stuart Pineo"
-description: "This project implements a sustainability grocery store scorecard."
+description: "A sustainability-focused grocery store scorecard."
 keywords: django, python
