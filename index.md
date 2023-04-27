@@ -23,7 +23,8 @@ Web application that displays grocery store scores that are generated from multi
 | Bulk Foods/Variety  | Fresh Vegetables/Fruits, Dried Fruits, Cereals, Breads/Pastry, Grains, Beans, Pasta, Nuts, Flour/Sugar, Spices, Coffee/Tea/Herbs, Oils/Vinegar, Nut Butters, Cleaning Liquids/Powders, Beauty Products, Candy/Sweets|
 | Quality Offerings | Organic, Sustainable, Fair Trade, Non-GMO, Cage Free, Pasture Raised, Vegan Substitutes, Freshness of Produce/Perishables, Plastic-Free Options, Eco-Friendly Beauty/Cleaning Products, Bulk Foods Packaging Options |
 | Shopping Experience | Friendliness, Ease/Speed of Checkout, Helpfulness, Knowledgeable, Store Navigation/Space, Well Stocked, Variety, Price, Store Cleanliness, Bags at Checkout |
-| Store Extras | Mission, Fresh Bakery, Compost, Recycling Options, Water Refill, Plants/Flowers, Response to Feedback/Emails, Encourage BYOB (signs/credits), Offer Bags/Containers, Compliance on Plastic Bags| Paperless Receipts, Eat-in Services/Prepared Food, Dynamic Pricing on Produce, Discounts for Ugly/Bad Spots Produce, Local Produce, Refrigerants |
+| Store Extras | Mission, Fresh Bakery, Compost, Recycling Options, Water Refill, Plants/Flowers, Response to Feedback/Emails, Encourage BYOB (signs/credits), Offer Bags/Containers, Compliance on Plastic Bags, Paperless Receipts, Eat-in Services/Prepared Food, Refrigerants |
+| Produce Options | Dynamic Pricing on Produce, Discounts for Ugly/Bad Spots Produce, Local Produce |
 
 * To be integrate as shareable and/or editable document
 
